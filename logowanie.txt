@@ -1,1 +1,5 @@
-haslo: 12345
+<<<<<<< HEAD
+haslo: 55555
+=======
+haslo: 54321
+>>>>>>> 4dbaff9 (Ustawienie hasla User 1)
